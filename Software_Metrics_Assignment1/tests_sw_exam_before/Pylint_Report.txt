@@ -1,0 +1,18 @@
+************* Module Exam_Before
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:1:0: C0103: Module name "Exam_Before" doesn't conform to snake_case naming style (invalid-name)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:7:0: W0404: Reimport 'webdriver' (imported line 3) (reimported)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:12:0: W0404: Reimport 'ActionChains' (imported line 4) (reimported)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:29:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:30:8: W0201: Attribute 'checkbox1' defined outside __init__ (attribute-defined-outside-init)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:34:8: W0201: Attribute 'checkbox2' defined outside __init__ (attribute-defined-outside-init)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:7:0: C0412: Imports from package selenium are not grouped (ungrouped-imports)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:4:0: W0611: Unused ActionChains imported from selenium.webdriver (unused-import)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:9:0: W0611: Unused Keys imported from selenium.webdriver.common.keys (unused-import)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:10:0: W0611: Unused Select imported from selenium.webdriver.support.ui (unused-import)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:11:0: W0611: Unused NoSuchElementException imported from selenium.common.exceptions (unused-import)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\Exam_Before.py:13:0: W0611: Unused NoAlertPresentException imported from selenium.common.exceptions (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 6.39/10 (previous run: 6.39/10, +0.00)
+

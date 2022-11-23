@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Software_Metrics_Assignment1", "Software_Metrics_Assignment1\Software_Metrics_Assignment1.pyproj", "{CC9FA753-2DE3-4948-9ACD-ECF14A66533A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9FA753-2DE3-4948-9ACD-ECF14A66533A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9FA753-2DE3-4948-9ACD-ECF14A66533A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {678D798D-8C6D-46C1-80C5-684BBE10DEEE}
+	EndGlobalSection
+EndGlobal

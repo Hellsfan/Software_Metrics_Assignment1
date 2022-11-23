@@ -1,0 +1,9 @@
+************* Module exam_after
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\exam_after.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\exam_after.py:19:4: C0116: Missing function or method docstring (missing-function-docstring)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\exam_after.py:21:8: W0201: Attribute 'checkbox1' defined outside __init__ (attribute-defined-outside-init)
+C:\Users\Hell\source\repos\Software_Metrics_Assignment1\Software_Metrics_Assignment1\exam_after.py:26:8: W0201: Attribute 'checkbox2' defined outside __init__ (attribute-defined-outside-init)
+
+------------------------------------------------------------------
+Your code has been rated at 8.52/10 (previous run: 8.52/10, +0.00)
+
